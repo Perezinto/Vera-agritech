@@ -1,0 +1,25 @@
+const base = '/vera-images';
+
+export const IMG = {
+  logo: '/logo.svg',
+  coveredStructure: `${base}/greenhouse-construction/greenhouse-covered-structure-01.jpeg`,
+  frameInstall1: `${base}/greenhouse-construction/greenhouse-frame-installation-01.jpeg`,
+  frameInstall2: `${base}/greenhouse-construction/greenhouse-frame-installation-02.jpeg`,
+  irrigation: `${base}/greenhouse-construction/irrigation.jpg`,
+  hydroponic: `${base}/crop-production/hydroponic-growing-system-01.jpeg`,
+  lettuceProduction: `${base}/crop-production/lettuce-greenhouse-production-01.jpeg`,
+  maizeBean1: `${base}/crop-production/maize-and-bean-field-crops-01.jpeg`,
+  maizeBean2: `${base}/crop-production/maize-and-bean-field-crops-02.jpeg`,
+  pepperProduction: `${base}/crop-production/pepper-greenhouse-production-01.jpeg`,
+  tomatoProduction1: `${base}/crop-production/tomato-greenhouse-production-01.jpeg`,
+  tomatoProduction3: `${base}/crop-production/tomato-greenhouse-production-03.jpeg`,
+  renderExterior: `${base}/designs-and-3d-renders/greenhouse-exterior-render-01.jpeg`,
+  renderSitePlan: `${base}/designs-and-3d-renders/greenhouse-site-plan-aerial-01.jpeg`,
+  renderStructure: `${base}/designs-and-3d-renders/greenhouse-structure-render-01.jpeg`,
+  renderLettuce: `${base}/designs-and-3d-renders/lettuce-greenhouse-render-01.jpeg`,
+  fieldTeam: `${base}/field-and-team-work/field-team-working-01.jpeg`,
+  founder: `${base}/people/vera-team-member-portrait-01.jpeg`,
+  pepperCrates: `${base}/produce-and-harvest/pepper-harvest-crates-01.jpeg`,
+  pepperLettuce: `${base}/produce-and-harvest/pepper-lettuce.jpg`,
+  tomatoCrates: `${base}/produce-and-harvest/tomato-harvest-crates-01.jpeg`,
+};
